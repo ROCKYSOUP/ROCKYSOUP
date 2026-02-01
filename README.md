@@ -74,13 +74,12 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROCKYSOUP&show_icons=true&theme=tokyonight" height="160"&count_private=true/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROCKYSOUP&theme=tokyonight" height="160"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ROCKYSOUP&theme=tokyonight" 
+    height="160"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROCKYSOUP&layout=compact&theme=tokyonight"&count_private=true/>
-</p>
 
 ---
 
